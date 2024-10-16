@@ -963,6 +963,7 @@ cursor: not-allowed; /* Change cursor to indicate disabled state */
   min-height: auto; /* Allow it to adjust to its content */
   min-width: 100vw;
   overflow: auto; /* Enable scrolling if needed */
+  margin-top: 7vh; /* Add margin equal to or greater than .sub-menu-battery-container height */
 }
 #submitForm {
 width: 100%; /* Full width of the parent container */
